@@ -23,7 +23,7 @@ I created many kind of charts using the necessary columns and then transferred t
 
 ![image] <img src = https://github.com/tansu-ayaz/Supply-Chain-Big-Data-Analysis-Power-BI/blob/main/Third.jpg />
 
-![image] <img src =  />
+![image] <img src = https://github.com/tansu-ayaz/Supply-Chain-Big-Data-Analysis-Power-BI/blob/main/Fourth.jpg />
 
 ![image] <img src =  />
 
