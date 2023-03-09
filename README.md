@@ -6,7 +6,6 @@ The supply chain industry is the engine that runs every economy in the world.  W
 
  In this project, Using Power Bi and Excel, We will explore key variables from the fictional sporting goods supplier to identify how those variables can be used to explain whether an order for goods and services will be delivered to the retail store on time.
  
- <a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a>
  
  <a href="https://app.powerbi.com/groups/me/reports/fbdb8a98-b65a-4953-be22-6b5f98f3680a/ReportSectione1044e9040de165d45e0">Go to my Dashboard link</a>
 
