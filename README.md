@@ -17,5 +17,15 @@ In this project, This report was conducted using a dataset of supply chains from
 
 I created many kind of charts using the necessary columns and then transferred them to Power BI.
 
+![image] <img src = https://github.com/tansu-ayaz/Supply-Chain-Big-Data-Analysis-Power-BI/blob/main/First.jpg />
+
+![image] <img src =  />
+
+![image] <img src =  />
+
+![image] <img src =  />
+
+![image] <img src =  />
+
 
 
