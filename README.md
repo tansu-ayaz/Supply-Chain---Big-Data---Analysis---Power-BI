@@ -32,7 +32,7 @@ I created many kind of charts using the necessary columns and then transferred t
 ## Technologies
 To complete this project, I used the following tools:
 - Excel
-- Power biu
+- Power BI
 
 <a href="https://www.linkedin.com/in/tansu-ayaz/">Go to my Linkedin</a>
 
