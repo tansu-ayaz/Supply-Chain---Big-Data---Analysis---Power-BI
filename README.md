@@ -25,7 +25,12 @@ I created many kind of charts using the necessary columns and then transferred t
 
 ![image] <img src = https://github.com/tansu-ayaz/Supply-Chain-Big-Data-Analysis-Power-BI/blob/main/Fourth.jpg />
 
-![image] <img src =  />
+![image] <img src = https://github.com/tansu-ayaz/Supply-Chain-Big-Data-Analysis-Power-BI/blob/main/Fifth.jpg />
 
+## Technologies
+To complete this project, I used the following tools:
+- Excel
+- Power BI
 
+<a href="https://www.linkedin.com/in/tansu-ayaz-797bb313a/">Go to my Linkedin</a>
 
